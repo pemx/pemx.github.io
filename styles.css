@@ -95,3 +95,21 @@ img {
     text-align: center;
     margin-top: 50px;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 48px;
+    font-size: 12px;
+    padding: 10px;
+  }
+  
+  footer p {
+    color: white;
+    text-align: center;
+  }
